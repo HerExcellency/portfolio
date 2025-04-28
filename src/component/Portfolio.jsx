@@ -22,7 +22,7 @@ const Portfolio = () => {
       title: "Financial Technology Maintenance and solutions company.",
       description: "ATM Maintenance, Card Issuance and financial solutions",
       tags: ["React JS", "Javascript", "Tailwind CSS",  ],
-      link: "#"
+      link: "//keisok.onrender.com/"
     },
     {
       title: "A Fintech Savings Platform",
@@ -34,7 +34,7 @@ const Portfolio = () => {
       title: "Health Triage Platform",
       description: "An AI powered platform for patients and consultants",
       tags: ["React", "TypeScript", "Tailwind CSS", "REST API", "Swagger", "Api Documentation"],
-      link: "#"
+      link: "//healthtriage.vercel.app/"
     },
     {
       title: "Lizy AI Platform",
