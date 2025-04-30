@@ -31,7 +31,7 @@ const HeroSection = () => {
           </p>
           <div className="flex justify-center space-x-4">
             <a
-              href="/OnuajuIjeomaFrontendDeveloper.pdf"
+              href="../OnuajuIjeomaFrontendDeveloper.pdf"
               download
               className="inline-flex items-center px-6 py-3 bg-white text-gray-800 rounded-lg hover:bg-gray-800 hover:text-white transition border border-gray-800"
             >

@@ -58,6 +58,6 @@
 }
 .bgImg1{
   background-image: url(../src/assets/file/pattern.svg);
-  background-repeat:repeat-y;
+  background-repeat:no-repeat;
   /* background-size: cover; */
 }
